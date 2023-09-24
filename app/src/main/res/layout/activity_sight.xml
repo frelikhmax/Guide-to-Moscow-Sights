@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SightActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="650dp">
+
+        <com.yandex.mapkit.mapview.MapView
+            android:id="@+id/mapview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="170dp"
+            android:layout_height="100dp"
+            android:layout_gravity="bottom"
+            android:scaleType="centerCrop" />
+    </FrameLayout>
+
+
+    <TextView
+        android:id="@+id/sightInfo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textAlignment="center" />
+
+    <TextView
+        android:textAlignment="center"
+        android:id="@+id/sightDescription"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp" />
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moscow Sights Guide</string>
+    <string name="loginGreetings">Welcome to the guide buddy!</string>
+    <string name="loginFirstName">First Name</string>
+    <string name="loginLastName">Last Name</string>
+    <string name="loginEmail">Email</string>
+    <string name="login">Login</string>
+    <string name="sightsListActivityGreetings">Greetings\u00A0 </string>
+    <string name="sightActivityShowDistance">Show Distance</string>
+    <string name="sightActivityHideDistance">Hide Distance</string>
+</resources>

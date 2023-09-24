@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#9c999a</color>
+
+    <color name="dayBlue1">#e6f4ff</color>
+    <color name="dayBlue2">#97b5e8</color>
+    <color name="dayBlue3">#6094eb</color>
+    <color name="dayBlue4">#0b5fe6</color>
+    <color name="dayBlue5">#dceefc</color>
+    <color name="dayBlue6">#084dbd</color>
+
+    <color name="nightBlue1">#53537a</color>
+    <color name="nightBlue2">#020226</color>
+    <color name="nightBlue3">#262638</color>
+    <color name="nightBlue4">#0c47a6</color>
+</resources>
