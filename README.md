@@ -3,9 +3,9 @@
 
 
 <div align="center" style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/frelikhmax/Guide-to-Moscow-Sights/assets/112934628/7589a2b7-8802-4063-b98c-9317109d8ee4" alt="User Interface, eng" width="334">
-    <img src="https://github.com/frelikhmax/Guide-to-Moscow-Sights/assets/112934628/ae99a690-7cf9-4fa3-9ba3-75e84c9ef5d4" alt="User Interface, rus" width="334">
-    <img src="https://github.com/frelikhmax/Guide-to-Moscow-Sights/assets/112934628/c2c55a01-6fd3-4fc6-9f8f-41d62deabaf8" alt="User Interface, eng" width="334">
+    <img src="https://github.com/frelikhmax/Guide-to-Moscow-Sights/assets/112934628/7589a2b7-8802-4063-b98c-9317109d8ee4" alt="User Interface, eng" width="303">
+    <img src="https://github.com/frelikhmax/Guide-to-Moscow-Sights/assets/112934628/ae99a690-7cf9-4fa3-9ba3-75e84c9ef5d4" alt="User Interface, rus" width="303">
+    <img src="https://github.com/frelikhmax/Guide-to-Moscow-Sights/assets/112934628/c2c55a01-6fd3-4fc6-9f8f-41d62deabaf8" alt="User Interface, eng" width="303">
 </div>
 
 
