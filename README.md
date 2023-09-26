@@ -10,7 +10,7 @@
 
 
 ### Description
-Guide to Moscow (Basmanny District) Sights is a convenient application designed for travelers, tourists and even localc, facilitating the exploration of fascinating destinations and landmarks in Moscow, Russia. The app provides detailed insights into the locations of attractions, along with comprehensive descriptions and photographs.
+Guide to Moscow (Basmanny District) Sights is a convenient application designed for travelers, tourists, and even locals, facilitating the exploration of fascinating destinations and landmarks in Moscow, Russia. The app provides detailed insights into the locations of attractions, along with comprehensive descriptions and photographs.
 
 ### Features
 - **Login:** Users can log in to the app to use their personal accounts.
